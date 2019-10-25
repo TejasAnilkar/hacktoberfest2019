@@ -9,6 +9,8 @@ For all of you, my friends, which are wanna to join and contribute in HacktoberF
 - Insert your github nickname, your real name, and where you are come from (city and country).
 - Save it, and make a pull request to me. After I get notified about it, I will accepted and merged the pull request.
 
+https://ipang-dwi.github.io/hacktoberfest2019/
+
 ======================================================================================================================
 
 Repo gratis untuk join pada Event HacktoberFest2019 - kamu bebas membuat pull request ke repo ini - www.firstplato.com
@@ -18,5 +20,7 @@ Untuk kamu semua, temen-temen, yang ingin join dan berkontribusi di HacktoberFes
 - Buat clone dan edit file index.html dengan editor favorit mu. Atau cukup edit online dengan github editor tool.
 - Masukkan nickname github kamu, nama lengkap kamu, dan dari mana kamu berasal (kota dan negara).
 - Simpan, dan buat pull request buat aku. Setelah aku dapat notif, akan langsung ku terima dan merger pull requestnya.
+
+https://ipang-dwi.github.io/hacktoberfest2019/
 
 Sidoarjo, Oktober 2019 - HacktoberFest2019
