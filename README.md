@@ -1,6 +1,8 @@
 # hacktoberfest2019
 ![](https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg)
 
+> Now is 31 October 2019 and the last day to contribute in HactoberFest event, thanks for users who join and contribute to this repo.. See you next year..
+
 Free repo to join HacktoberFest2019 Event - you are all free to create pull request to this repo - www.firstplato.com
 
 For all of you, my friends, which are wanna to join and contribute in HacktoberFest2019, you can use this repo. Just follow it :
