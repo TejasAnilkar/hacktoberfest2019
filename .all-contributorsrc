@@ -16,6 +16,17 @@
         "code",
         "design"
       ]
+    },
+    {
+      "login": "warifp",
+      "name": "Wahyu Arif Purnomo",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/28912230?v=4",
+      "profile": "https://www.linkedin.com/in/warifp",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
