@@ -15,6 +15,15 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "vishalx360",
+      "name": "Vishal Kumar",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/25267239?v=4",
+      "profile": "https://vishalx360.github.io",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
