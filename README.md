@@ -1,6 +1,6 @@
 # hacktoberfest2019
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ![](https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg)
 
@@ -40,6 +40,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://www.firstplato.com"><img src="https://avatars1.githubusercontent.com/u/6070955?v=4" width="100px;" alt=""/><br /><sub><b>ipang dwi</b></sub></a><br /><a href="#infra-ipang-dwi" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/ipang-dwi/hacktoberfest2019/commits?author=ipang-dwi" title="Tests">⚠️</a> <a href="https://github.com/ipang-dwi/hacktoberfest2019/commits?author=ipang-dwi" title="Code">💻</a></td>
+    <td align="center"><a href="https://vishalx360.github.io"><img src="https://avatars1.githubusercontent.com/u/25267239?v=4" width="100px;" alt=""/><br /><sub><b>Vishal Kumar</b></sub></a><br /><a href="https://github.com/ipang-dwi/hacktoberfest2019/commits?author=vishalx360" title="Code">💻</a></td>
   </tr>
 </table>
 
