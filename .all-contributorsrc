@@ -15,6 +15,15 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "fachrudahri",
+      "name": "Fachru Dahri",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/42551950?v=4",
+      "profile": "http://fachrudahri.now.sh",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
