@@ -1,4 +1,7 @@
 # hacktoberfest2019
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 ![](https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg)
 
 > Now is 31 October 2019 and the last day to contribute in HactoberFest event, thanks for users who join and contribute to this repo.. See you next year..
@@ -26,3 +29,22 @@ Untuk kamu semua, temen-temen, yang ingin join dan berkontribusi di HacktoberFes
 https://ipang-dwi.github.io/hacktoberfest2019/
 
 Sidoarjo, Oktober 2019 - HacktoberFest2019
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://www.firstplato.com"><img src="https://avatars1.githubusercontent.com/u/6070955?v=4" width="100px;" alt=""/><br /><sub><b>ipang dwi</b></sub></a><br /><a href="#infra-ipang-dwi" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/ipang-dwi/hacktoberfest2019/commits?author=ipang-dwi" title="Tests">⚠️</a> <a href="https://github.com/ipang-dwi/hacktoberfest2019/commits?author=ipang-dwi" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
