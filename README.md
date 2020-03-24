@@ -29,23 +29,3 @@ Untuk kamu semua, temen-temen, yang ingin join dan berkontribusi di HacktoberFes
 https://ipang-dwi.github.io/hacktoberfest2019/
 
 Sidoarjo, Oktober 2019 - HacktoberFest2019
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://www.firstplato.com"><img src="https://avatars1.githubusercontent.com/u/6070955?v=4" width="100px;" alt=""/><br /><sub><b>ipang dwi</b></sub></a><br /><a href="#infra-ipang-dwi" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/ipang-dwi/hacktoberfest2019/commits?author=ipang-dwi" title="Tests">⚠️</a> <a href="https://github.com/ipang-dwi/hacktoberfest2019/commits?author=ipang-dwi" title="Code">💻</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/warifp"><img src="https://avatars1.githubusercontent.com/u/28912230?v=4" width="100px;" alt=""/><br /><sub><b>Wahyu Arif Purnomo</b></sub></a><br /><a href="#infra-warifp" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/ipang-dwi/hacktoberfest2019/commits?author=warifp" title="Tests">⚠️</a> <a href="https://github.com/ipang-dwi/hacktoberfest2019/commits?author=warifp" title="Code">💻</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
