@@ -15,6 +15,15 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "evantoday",
+      "name": "evantoday",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/25822267?v=4",
+      "profile": "https://github.com/evantoday",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
