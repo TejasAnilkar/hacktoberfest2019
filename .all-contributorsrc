@@ -15,6 +15,15 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "dmahajan980",
+      "name": "Divyanshu Mahajan",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/37256767?v=4",
+      "profile": "http://linkedin.com/in/divyanshu98",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
